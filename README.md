@@ -23,3 +23,4 @@ Improve communication between patients and doctors
 Increase patient adherence to monitoring and medication
 Provide accurate reports that support diagnosis and follow-up
 ## Project Link 
+https://www.canva.com/design/DAGxQ5ZJKwM/sK1wfssICK6y9K2Sigx5Lg/view?utm_content=DAGxQ5ZJKwM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3dcae4cdd7
