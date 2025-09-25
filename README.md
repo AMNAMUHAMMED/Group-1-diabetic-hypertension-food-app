@@ -1,11 +1,11 @@
 # Group-1-diabetic-hypertension-food-app
 Mobile app design for healthy food options for people with diabetes and hypertension
 ## Team Members 
-Amna Mohammed
-Alaa ibrahim
-Shimaa Adel 
-Eman Atia 
-Soha Abdelmenem 
+#Amna Mohammed
+#Alaa ibrahim
+#Shimaa Adel 
+#Eman Atia 
+#Soha Abdelmenem 
 ## Description
 A simple app to monitor blood sugar and blood pressure
 Records daily readings in an organized way
